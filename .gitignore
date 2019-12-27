@@ -18,6 +18,6 @@ Icon
 # Others
 .MF
 .classpath
-settings/*
+.settings
 .project
 
