@@ -1,0 +1,23 @@
+# All file .class
+*.class
+
+# Package files and libraries
+*.jar
+*.war
+*.ear
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Log files
+.log
+
+# Others
+.MF
+.classpath
+.settings
+.project
+

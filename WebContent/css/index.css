@@ -1,0 +1,67 @@
+* {
+    margin :0 auto;    
+}
+
+body {
+    background-color: #fafafa;
+}
+
+#tudo 
+{
+    text-align:center;        
+}
+
+#rodape 
+{
+    font: 10px/1.5 Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #7f7f7f;
+    background: url("../img/rodape.jpg") repeat-y center;    
+}
+
+form label
+{
+	font-size:14px;
+	text-decoration:none;
+	color:#7f7f7f;	
+}
+
+form h
+{
+	font-size:13px;
+	text-decoration:none;
+	color:#7f7f7f;	
+}
+
+#mytable a
+{	
+	font-size:15px;
+	color:gray;/*3132ff*/
+	text-decoration:none;			
+}
+
+#mytable td a:hover
+{	
+	font-size:15px;
+	color: red;
+	background-color: white;
+	padding-left: 250px;
+	padding-right: 250px;	
+}
+
+.bt-pesquisar
+{
+	background:url(../img/enviar.gif) no-repeat;
+	border:none;
+	height:30px;
+	width:75px;
+	margin-left: 100px;
+	
+}
+
+form img
+{
+	margin-left: -70px;
+	float: inline;
+		
+}
